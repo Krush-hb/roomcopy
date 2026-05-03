@@ -6,7 +6,7 @@ Desenvolvido por Krush.
 Descrição
 O RoomCopy automatiza a cópia de ambientes, incluindo o mapa de altura do chão, itens de chão, itens de parede e as alturas empilhadas (Z). Um diferencial importante é a sua capacidade de sincronizar os estados (states) dos mobis após a colagem. Agora conta com filtros inteligentes que permitem ignorar itens específicos logo no momento da cópia, garantindo uma prancheta limpa e organizada.
 
-✨ Funcionalidades Principais
+Funcionalidades Principais
 Clonagem de Layout: Copia o FloorHeightMap, mobis de chão e mobis de parede.
 
 Filtros de Cópia (Novo): Opções para Não copiar Wireds e Não copiar itens de parede, filtrando o conteúdo antes de gerar o preset.
