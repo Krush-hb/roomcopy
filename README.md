@@ -9,9 +9,7 @@ O RoomCopy automatiza a cópia de ambientes, incluindo o mapa de altura do chão
 Funcionalidades Principais
 Clonagem de Layout: Copia o FloorHeightMap, mobis de chão e mobis de parede.
 
-Filtros de Cópia (Novo): Opções para Não copiar Wireds e Não copiar itens de parede, filtrando o conteúdo antes de gerar o preset.
-
-Automação de Stacks: Sistema que posiciona e configura automaticamente os StackTiles (1x1, 2x1 e 2x2) de acordo com a dimensão do item.
+Filtros: Opções para Não copiar Wireds e Não copiar itens de parede (devido a não precisão), filtrando o conteúdo antes de gerar o preset.
 
 Sincronização de Estados: Garante que mobis interativos (portas, luzes, etc.) fiquem no estado correto após serem colocados.
 
